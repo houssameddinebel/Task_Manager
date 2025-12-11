@@ -1,6 +1,6 @@
-# ✅ Task Manager (Python)
+# ✅ Task Manager (Python) :
 
-A simple command-line **Task Manager** written in Python that lets you:
+A simple command-line **Task Manager** written in Python that lets you :
 - Add tasks  
 - View all tasks  
 - Mark tasks as done  
